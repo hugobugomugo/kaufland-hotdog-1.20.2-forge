@@ -1,0 +1,15 @@
+/give @a minecraft:kaufland_hotdog
+/give @a kauflandhotdawg:kaufland_hotdog
+/give @a kauflandhotdawg:kaufland_hotdog 64
+/time set dasy
+/time set day
+/give @a kauflandhotdawg:kaufland_hotdog 64
+/give @a kauflandhotdawg:kaufland_hotdog.json
+/give @a kauflandhotdawg:kaufland_hotdog
+/gamemode survival
+/effect give Dev minecraft:hunger 100 700
+/effect give Dev minecraft:hunger 100 255
+/gamemode creative
+/gamemode survival
+/effect give Dev minecraft:hunger 100 255
+/gamemode creative

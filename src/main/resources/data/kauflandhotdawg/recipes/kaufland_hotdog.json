@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "NSN",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bread"
+    },
+    "N": {
+      "item": "minecraft:nether_wart"
+    },
+    "R": {
+    "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "item": "kauflandhotdawg:kaufland_hotdog",
+    "count" : 6
+  },
+  "show_notification": true
+}

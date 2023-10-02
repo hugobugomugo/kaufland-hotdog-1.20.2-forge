@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: kauflandhotdawg
+Specification-Vendor: hugobugomugo
+Specification-Version: 1
+Implementation-Title: KauflandHotdawg
+Implementation-Version: de.hugobugomugo
+Implementation-Vendor: hugobugomugo
+Implementation-Timestamp: 2023-10-02T21:20:43+0200
+
